@@ -1,6 +1,6 @@
 # Newscatcher
 **Programmatically collect normalized news from (almost) any website.**
-
+This is an amazing project made to dimplify things 
 Filter by **topic**, **country**, or **language**.
 
 Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not need anything from us or from anyone else to get the software going, it just works out of the box.
@@ -61,7 +61,7 @@ There is a limited set of topic that you might find:
 
 ``` 'tech', 'news', 'business', 'science', 'finance', 'food', 'politics', 'economics', 'travel', 'entertainment', 'music', 'sport', 'world' ```
 
-However, not all topics are supported by every newspaper.
+However,not all topics are supported by every newspaper.
 
 How to check which topics are supported by which newspaper:
 ```python
